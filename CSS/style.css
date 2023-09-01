@@ -1,0 +1,20 @@
+/*This is my CSS page. I changed the color of the background as well as the text. I also fixed the footer to the bottom of the page. And added margin for the wrapper div to evenly distribute the blamk space.*/
+
+body{
+    background-color: blanchedalmond;
+    color: rgb(43, 92, 226);
+    margin:50px
+    
+   }
+
+   .footer {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+.wrapper{ 
+ 
+    margin-left: 800px;
+   
+}
